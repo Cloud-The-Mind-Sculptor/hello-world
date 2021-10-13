@@ -1,5 +1,4 @@
 # hello-world
-My first repository.
 
 Hello to whoever it is that is taking a look at my GitHub profile or what not.
 I really do not know the full potential of this website but I intend to attempt to figure that out.
